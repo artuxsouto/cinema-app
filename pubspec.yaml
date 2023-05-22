@@ -16,4 +16,11 @@ dev_dependencies:
   flutter_lints: ^2.0.0
 
 flutter:
+assets:
+  - assets/Rectangle_0.png
+  - assets/Rectangle_1.png
+  - assets/Rectangle_2.png
+  - assets/Rectangle_3.png
+  - assets/Rectangle_4.png
+  - assets/Rectangle_5.png
   uses-material-design: true
